@@ -23,5 +23,6 @@
     "mysql": "^2.15.0",
     "path": "^0.12.7",
     "phaser": "^3.10.1"
-  }
+  },
+  "devDependencies": {}
 }
